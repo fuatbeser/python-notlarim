@@ -13,7 +13,8 @@ Repodan daha fazla kişinin faydalanmasını sağlamak bir yıldız bırakabilir
 1. [Python Türkçe Başlangıç](https://github.com/fuatbeser/python-notlarim/blob/master/core_python_tutorial_turkish.ipynb) [(_Colab_)](https://colab.research.google.com/github/fuatbeser/python-notlarim/blob/master/core_python_tutorial_turkish.ipynb)
 2. [Numpy Türkçe Başlangıç](https://github.com/fuatbeser/python-notlarim/blob/master/numpy_tutorial_turkish.ipynb) [(_Colab_)](https://colab.research.google.com/github/fuatbeser/python-notlarim/blob/master/numpy_tutorial_turkish.ipynb)
 3. [Pandas Türkçe Başlangıç (yapım aşamasında)](https://github.com/fuatbeser/python-notlarim/blob/master/pandas_tutorial_turkish.ipynb) [(_Colab_)](https://colab.research.google.com/github/fuatbeser/python-notlarim/blob/master/pandas_tutorial_turkish.ipynb)
-4. [Matplotlib Türkçe Başlangıç (yapım aşamasında)](https://github.com/fuatbeser/python-notlarim/blob/master/matplotlib_tutorial_turkish.ipynb) [(_Colab_)](https://colab.research.google.com/github/fuatbeser/python-notlarim/blob/master/matplotlib_tutorial_turkish.ipynb)
+4. [Scikit-learn Türkçe Başlangıç (yapım aşamasında)](https://github.com/fuatbeser/python-notlarim/blob/master/scikitlearn_tutorial_turkish.ipynb) [(_Colab_)](https://colab.research.google.com/github/fuatbeser/python-notlarim/blob/master/scikitlearn_tutorial_turkish.ipynb)
+5. [Matplotlib Türkçe Başlangıç (yapım aşamasında)](https://github.com/fuatbeser/python-notlarim/blob/master/matplotlib_tutorial_turkish.ipynb) [(_Colab_)](https://colab.research.google.com/github/fuatbeser/python-notlarim/blob/master/matplotlib_tutorial_turkish.ipynb)
 
 Faydalanılan Kaynaklar
 ======
